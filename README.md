@@ -1,5 +1,5 @@
-### Name:Isaachenryrufuson S
-### Reg no:212224250007
+### Name:Dinesh Kumar Rajendran
+### Reg no:212224250005
 # Aim:
 To measure energy using Single Phase Energy Meter
 
